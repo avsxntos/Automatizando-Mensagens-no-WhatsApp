@@ -5,7 +5,7 @@ import socket
 
 
 IP_CASA = "endereço de IP"  
-CONTATO = "+551198697s4565"  
+CONTATO = "+551100000000"  
 MENSAGEM = "Isto é um teste, caso tenha recebido isso o código está funcionando corretamente, considere isso uma mensagem pronta, não responder"
 
 
