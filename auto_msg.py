@@ -4,8 +4,8 @@ import plyer
 import socket
 
 
-IP_CASA = "endereço de IP"  
-CONTATO = "+551100000000"  
+IP_CASA = "endereço de IP"  # use seu próprio endereço de IP
+CONTATO = "+551100000000"  # digite o número do contato que gostaria de testar o código e enviar mensagens automáticas
 MENSAGEM = "Isto é um teste, caso tenha recebido isso o código está funcionando corretamente, considere isso uma mensagem pronta, não responder"
 
 
