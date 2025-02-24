@@ -4,7 +4,7 @@ import plyer
 import socket
 
 
-IP_CASA = "192.168.68.116"  
+IP_CASA = "endereço de IP"  
 CONTATO = "+551198697s4565"  
 MENSAGEM = "Isto é um teste, caso tenha recebido isso o código está funcionando corretamente, considere isso uma mensagem pronta, não responder"
 
@@ -27,7 +27,7 @@ def confirmar_envio():
         message="Deseja enviar uma mensagem para sua namorada?",
         timeout=10
     )
-    
+
     resposta = input("Enviar mensagem? (s/n): ")
     return resposta.lower() == "s"
 
