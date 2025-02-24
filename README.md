@@ -38,7 +38,7 @@ Assim que eu melhorar o sistema e testar mais possibilidades, vou postar a versÃ
 
 
 
-https://github.com/user-attachments/assets/d27c6cd6-2f2d-4f0e-b3e3-0caa364bde0a
+
 
 
 
