@@ -3,8 +3,7 @@
 Sabe aquele momento em que você chega em casa depois de um dia longo e só quer relaxar? Mas antes, tem aquela obrigação: avisar sua namorada que chegou bem. Claro, isso é um gesto de carinho, mas às vezes, no meio da correria, pode acabar passando batido.
 
 Foi exatamente isso que aconteceu comigo algumas vezes. Chegava, pegava o celular para responder alguma notificação, e quando via, já tinha se passado um bom tempo e eu ainda não tinha avisado. Então pensei: "Por que não automatizar isso?"
-Este projeto é uma atividade proposta do curso superior de Análise e Desenvolvimento de Sistemas!
-Onde foi proposto que criassemos um currículo utilizando ferramentas web, como HTML, CSS e até mesmo JavaScript. 
+
 
 ## A Solução – Criando um Sistema de Mensagens Automáticas
 Este projeto é uma atividade proposta do curso superior de Análise e Desenvolvimento de Sistemas!
