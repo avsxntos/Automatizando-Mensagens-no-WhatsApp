@@ -6,8 +6,7 @@ Foi exatamente isso que aconteceu comigo algumas vezes. Chegava, pegava o celula
 
 
 ## A Solução – Criando um Sistema de Mensagens Automáticas
-Este projeto é uma atividade proposta do curso superior de Análise e Desenvolvimento de Sistemas!
-Onde foi proposto que criassemos um currículo utilizando ferramentas web, como HTML, CSS e até mesmo JavaScript. 
+Este projeto é uma atividade proposta por mim mesmo pra treinar algumas habilidades de automação, pensamento analítico e também por puro hobbie, para estudar, me aprimorar e me divertir.
 
 Para resolver essa "dor", decidi desenvolver um sistema que detecta automaticamente quando estou em casa e me dá a opção de enviar uma mensagem para minha namorada pelo WhatsApp. Assim, eu não esqueço e ainda mantenho um toque humano na interação, já que o envio precisa de uma pequena confirmação minha.
 
